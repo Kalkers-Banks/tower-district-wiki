@@ -8,7 +8,7 @@ The wiki aims to provide an organized reference for Tower District content, with
 
 ## Hosting
 
-The wiki is intended to run locally using "MediaWiki" (https://www.mediawiki.org/wiki/MediaWiki), with the goal of keeping setup simple and making the wiki easy to maintain.
+The wiki is intended to run locally using [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), with the goal of keeping setup simple and making the wiki easy to maintain.
 
 # Requirements
 
